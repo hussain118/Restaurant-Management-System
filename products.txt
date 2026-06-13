@@ -1,0 +1,5 @@
+FOOD,1,Burger,200,Food,2026-12-31
+FOOD,2,Pizza,500,Food,2026-12-31
+FOOD,3,Cold Drink,100,Beverage,2026-12-31
+FOOD,4,French Fries,150,Food,2026-12-31
+FOOD,5,Chicken Wrap,350,Food,2026-12-31
